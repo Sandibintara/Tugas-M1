@@ -22,8 +22,8 @@ Syntax
     
     return jumlah_karakter_nama, jumlah_karakter_nim
 
-nama = "Bangkit Akbar Anggara"
-nim = "312010148"
+nama = "Sandi Bintara"
+nim = "312010039"
 jumlah_karakter_nama, jumlah_karakter_nim = hitung_karakter(nama, nim)
 
 print("Nama :", nama)
